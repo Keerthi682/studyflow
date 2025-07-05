@@ -20,5 +20,3 @@ StudyFlow is a full-stack application that allows students to take notes, share 
 - `cd client && npm install && npm run dev`
 - `cd server && npm install && npm run dev`
 
-## 📝 License
-MIT
